@@ -1,0 +1,6 @@
+Phishing_dataset_01 : https://www.kaggle.com/datasets/akashkr/phishing-website-dataset
+Phishing_dataset_02 : https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset
+Phishing_dataset_03 : https://data.mendeley.com/datasets/72ptz43s9v/1
+Phishing_dataset_04 : https://data.mendeley.com/datasets/n96ncsr5g4/1
+
+malicious_phish : https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
