@@ -1,0 +1,4 @@
+Phishing_dataset_01 : https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset
+Phishing_dataset_02 : https://data.mendeley.com/datasets/n96ncsr5g4/1
+malicious_03_phish_01_defacement_02 : https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
+malware : https://urlhaus.abuse.ch/api/
